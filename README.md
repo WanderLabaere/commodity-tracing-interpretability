@@ -1,8 +1,8 @@
-# Master's Thesis Code: Interpretability of Spatial Regression Models for Forest-Risk Commodity Tracing
+# Code for paper: Interpretable multi-element fingerprinting for geographic origin prediction of timber and soybean commodities
 
 ## Overview
 
-This repository contains all code developed and used for the analyses conducted as part of my master's thesis, *Interpretability of Spatial Regression Models for Forest-Risk Commodity Tracing*.
+This repository contains all code developed and used for the analyses conducted as part of my paper, *Interpretable multi-element fingerprinting for geographic origin prediction of timber and soybean commodities*.
 
 The repository consists of two main folders:
 
@@ -15,7 +15,6 @@ The repository consists of two main folders:
 
 The **Pcode** folder contains four main subfolders:
 
-* **data_exploration**
 * **data_preparation**
 * **machine_learning**
 * **feature_importance**
@@ -30,10 +29,6 @@ Each script includes a detailed description at the top explaining its purpose, a
 ---
 
 ## Description of Main Analysis Folders
-
-### `data_exploration`
-
-Contains scripts for basic and advanced exploratory analyses, including PCA-like methods.
 
 ### `data_preparation`
 
